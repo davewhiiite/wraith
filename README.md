@@ -124,5 +124,3 @@ As a pandemic hobby, learning the Specter "stack" has been a rewarding challenge
 in disbelief that such a reliable multi-sig HWW solution could emerge so quickly, or smoothly. Major 
 kudos to Stepan, Ben, Moritz, Kim, and the rest of you that spend hours of your personal 
 time in this wormhole. Cheers, and happy new year!
-
-
